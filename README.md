@@ -31,7 +31,7 @@ dotnet run
 
 ## Further Learning
 
-- [InfluxDB 3.x Documentation](https://docs.influxdata.com/influxdb/v3/)
+- [InfluxDB 3.x Documentation](docs.influxdata.com/influxdb3/core/get-started/)
 - [InfluxDB C# Client Documentation](https://github.com/InfluxCommunity/influxdb3-csharp)
 - [Coravel Documentation](https://docs.coravel.net/)
 
